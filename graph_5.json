@@ -1,0 +1,15 @@
+{
+  "name": "cyber-core-3387",
+  "version": "0.1.0",
+  "generator": "PushForge Engine",
+  "capabilities": [
+    "ideate",
+    "compose",
+    "commit"
+  ],
+  "manifest": {
+    "entry": "src/index.ts",
+    "seed": 2777,
+    "createdAt": "2026-07-16T06:25:15.229Z"
+  }
+}
